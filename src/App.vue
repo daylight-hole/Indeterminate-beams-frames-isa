@@ -9,7 +9,7 @@ import ReloadPrompt from "./components/ReloadPrompt.vue";
 
 export default {
   components: { WidgetContainerModal: container },
-  name: "Isa- Indeterminate beam Assignment",
+  name: "App",
 };
 </script>
 
